@@ -19,7 +19,7 @@ def remove_strawberry(contacts)
     if person == "Freddy Mercury"
       contact_detaile_hash.each { |attribute, data|
         data.delete_if {|icr_cream| ice_cream == "strawberry"}
-      end }
-    end }
+      }end 
+    }end 
   end 
 end
